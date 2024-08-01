@@ -1,0 +1,197 @@
+module Base
+{
+    recipe Make Orange Childish Cape
+    {
+        LeatherStrips=4,
+        keep Needle,
+        Thread=3,
+        DuctTape=1,
+        Base.PopBottle,
+        Result:ChildishCape,
+        Time:250,
+        Category:Childish Capes,
+        SkillRequired:Tailoring=2,
+        NeedToBeLearn:true,
+        OnGiveXP:Recipe.ChildishCapeXP.MakeChildishCape100,
+    }
+
+    recipe Make Childish Nina Cape
+    {
+        LeatherStrips=4,
+        keep Needle,
+        Thread=3,
+        DuctTape=1,
+        Base.Doll,
+        Result:NinaChildishCape,
+        Time:250,
+        Category:Childish Capes,
+        SkillRequired:Tailoring=2,
+        NeedToBeLearn:true,
+        OnGiveXP:Recipe.ChildishCapeXP.MakeChildishCape100,
+    }
+
+    recipe Make Childish Twisted Cape
+    {
+        LeatherStrips=4,
+        keep Needle,
+        Thread=3,
+        DuctTape=1,
+        Base.Dandelions,
+        Result:TwistedChildishCape,
+        Time:250,
+        Category:Childish Capes,
+        SkillRequired:Tailoring=2,
+        NeedToBeLearn:true,
+        OnGiveXP:Recipe.ChildishCapeXP.MakeChildishCape100,
+    }
+
+    recipe Make Black Childish Cape
+    {
+        LeatherStrips=4,
+        keep Needle,
+        Thread=3,
+        DuctTape=1,
+        Base.Hat_BalaclavaFull,
+        Result:BlackChildishCape,
+        Time:250,
+        Category:Childish Capes,
+        SkillRequired:Tailoring=2,
+        NeedToBeLearn:true,
+        OnGiveXP:Recipe.ChildishCapeXP.MakeChildishCape100,
+    }
+
+    recipe Make Blue Childish Cape
+    {
+        LeatherStrips=4,
+        keep Needle,
+        Thread=3,
+        DuctTape=1,
+        Base.BluePen,
+        Result:BlueChildishCape,
+        Time:250,
+        Category:Childish Capes,
+        SkillRequired:Tailoring=2,
+        NeedToBeLearn:true,
+        OnGiveXP:Recipe.ChildishCapeXP.MakeChildishCape100,
+    }
+
+    recipe Make Choice Childish Cape
+    {
+        LeatherStrips=4,
+        keep Needle,
+        Thread=3,
+        DuctTape=1,
+        Base.Book,
+        Result:ChoiceChildishCape,
+        Time:250,
+        Category:Childish Capes,
+        SkillRequired:Tailoring=2,
+        NeedToBeLearn:true,
+        OnGiveXP:Recipe.ChildishCapeXP.MakeChildishCape100,
+    }
+
+    recipe Make Cloud Childish Cape
+    {
+        LeatherStrips=4,
+        keep Needle,
+        Thread=3,
+        DuctTape=1,
+        Base.PaintBlue,
+        Result:CloudChildishCape,
+        Time:250,
+        Category:Childish Capes,
+        SkillRequired:Tailoring=2,
+        NeedToBeLearn:true,
+        OnGiveXP:Recipe.ChildishCapeXP.MakeChildishCape100,
+    }
+
+    recipe Make Highlight Childish Cape
+    {
+        LeatherStrips=4,
+        keep Needle,
+        Thread=3,
+        DuctTape=1,
+        Base.LightBulb,
+        Result:HighlightChildishCape,
+        Time:250,
+        Category:Childish Capes,
+        SkillRequired:Tailoring=2,
+        NeedToBeLearn:true,
+        OnGiveXP:Recipe.ChildishCapeXP.MakeChildishCape100,
+    }
+
+    recipe Make Money Childish Cape
+    {
+        LeatherStrips=4,
+        keep Needle,
+        Thread=3,
+        DuctTape=1,
+        Base.Wallet/Base.Wallet2/Base.Wallet3/Base.Wallet4,
+        Result:MoneyChildishCape,
+        Time:250,
+        Category:Childish Capes,
+        SkillRequired:Tailoring=2,
+        NeedToBeLearn:true,
+        OnGiveXP:Recipe.ChildishCapeXP.MakeChildishCape100,
+    }
+
+    recipe Make Potato Childish Cape
+    {
+        LeatherStrips=4,
+        keep Needle,
+        Thread=3,
+        DuctTape=1,
+        farming.Potato=1,
+        Result:PotatoChildishCape,
+        Time:250,
+        Category:Childish Capes,
+        SkillRequired:Tailoring=2,
+        NeedToBeLearn:true,
+        OnGiveXP:Recipe.ChildishCapeXP.MakeChildishCape100,
+    }
+
+    recipe Make Red Childish Cape
+    {
+        LeatherStrips=4,
+        keep Needle,
+        Thread=3,
+        DuctTape=1,
+        Base.RedPen,
+        Result:RedChildishCape,
+        Time:250,
+        Category:Childish Capes,
+        SkillRequired:Tailoring=2,
+        NeedToBeLearn:true,
+        OnGiveXP:Recipe.ChildishCapeXP.MakeChildishCape100,
+    }
+
+    recipe Make Shogun Childish Cape
+    {
+        LeatherStrips=4,
+        keep Needle,
+        keep Base.Katana/Base.Machete,
+        Thread=3,
+        DuctTape=1,
+        Result:ShogunChildishCape,
+        Time:250,
+        Category:Childish Capes,
+        SkillRequired:Tailoring=2,
+        NeedToBeLearn:true,
+        OnGiveXP:Recipe.ChildishCapeXP.MakeChildishCape100,
+    }
+
+    recipe Make Space Childish Cape
+    {
+        LeatherStrips=4,
+        keep Needle,
+        Thread=3,
+        DuctTape=1,
+        Base.ComicBook,
+        Result:SpaceChildishCape,
+        Time:250,
+        Category:Childish Capes,
+        SkillRequired:Tailoring=2,
+        NeedToBeLearn:true,
+        OnGiveXP:Recipe.ChildishCapeXP.MakeChildishCape100,
+    }
+}

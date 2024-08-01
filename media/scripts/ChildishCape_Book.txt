@@ -1,0 +1,171 @@
+module Base
+{
+    item HeroicTales_OrangeCape
+    {
+        Weight = 0.5,
+        Type = Literature,
+        DisplayName = "Childish Hero Tales: The Orange Cape",
+        Icon = Book,
+        TeachedRecipes = Make Orange Childish Cape,
+        StaticModel = Book,
+        ReplaceOnUse = HeroicTales_OrangeCape,
+        WorldStaticModel = Book,
+        DisplayCategory = SkillBook,
+    }
+
+    item HeroicTales_NinaCape
+    {
+        Weight = 0.5,
+        Type = Literature,
+        DisplayName = "Childish Hero Tales: The Nina Cape",
+        Icon = Book,
+        TeachedRecipes = Make Childish Nina Cape,
+        StaticModel = Book,
+        ReplaceOnUse = HeroicTales_NinaCape,
+        WorldStaticModel = Book,
+        DisplayCategory = SkillBook,
+    }
+
+    item HeroicTales_TwistedCape
+    {
+        Weight = 0.5,
+        Type = Literature,
+        DisplayName = "Childish Hero Tales: The Twisted Cape",
+        Icon = Book,
+        TeachedRecipes = Make Childish Twisted Cape,
+        StaticModel = Book,
+        ReplaceOnUse = HeroicTales_TwistedCape,
+        WorldStaticModel = Book,
+        DisplayCategory = SkillBook,
+    }
+
+    item HeroicTales_BlackCape
+    {
+        Weight = 0.5,
+        Type = Literature,
+        DisplayName = "Childish Hero Tales: The Black Cape",
+        Icon = Book,
+        TeachedRecipes = Make Black Childish Cape,
+        StaticModel = Book,
+        ReplaceOnUse = HeroicTales_BlackCape,
+        WorldStaticModel = Book,
+        DisplayCategory = SkillBook,
+    }
+
+    item HeroicTales_BlueCape
+    {
+        Weight = 0.5,
+        Type = Literature,
+        DisplayName = "Childish Hero Tales: The Blue Cape",
+        Icon = Book,
+        TeachedRecipes = Make Blue Childish Cape,
+        StaticModel = Book,
+        ReplaceOnUse = HeroicTales_BlueCape,
+        WorldStaticModel = Book,
+        DisplayCategory = SkillBook,
+    }
+
+    item HeroicTales_ChoiceCape
+    {
+        Weight = 0.5,
+        Type = Literature,
+        DisplayName = "Childish Hero Tales: The Choice Cape",
+        Icon = Book,
+        TeachedRecipes = Make Choice Childish Cape,
+        StaticModel = Book,
+        ReplaceOnUse = HeroicTales_ChoiceCape,
+        WorldStaticModel = Book,
+        DisplayCategory = SkillBook,
+    }
+
+    item HeroicTales_CloudCape
+    {
+        Weight = 0.5,
+        Type = Literature,
+        DisplayName = "Childish Hero Tales: The Cloud Cape",
+        Icon = Book,
+        TeachedRecipes = Make Cloud Childish Cape,
+        StaticModel = Book,
+        ReplaceOnUse = HeroicTales_CloudCape,
+        WorldStaticModel = Book,
+        DisplayCategory = SkillBook,
+    }
+
+    item HeroicTales_HighlightCape
+    {
+        Weight = 0.5,
+        Type = Literature,
+        DisplayName = "Childish Hero Tales: The Highlight Cape",
+        Icon = Book,
+        TeachedRecipes = Make Highlight Childish Cape,
+        StaticModel = Book,
+        ReplaceOnUse = HeroicTales_HighlightCape,
+        WorldStaticModel = Book,
+        DisplayCategory = SkillBook,
+    }
+
+    item HeroicTales_MoneyCape
+    {
+        Weight = 0.5,
+        Type = Literature,
+        DisplayName = "Childish Hero Tales: The Money Cape",
+        Icon = Book,
+        TeachedRecipes = Make Money Childish Cape,
+        StaticModel = Book,
+        ReplaceOnUse = HeroicTales_MoneyCape,
+        WorldStaticModel = Book,
+        DisplayCategory = SkillBook,
+    }
+
+    item HeroicTales_PotatoCape
+    {
+        Weight = 0.5,
+        Type = Literature,
+        DisplayName = "Childish Hero Tales: The Potato Cape",
+        Icon = Book,
+        TeachedRecipes = Make Potato Childish Cape,
+        StaticModel = Book,
+        ReplaceOnUse = HeroicTales_PotatoCape,
+        WorldStaticModel = Book,
+        DisplayCategory = SkillBook,
+    }
+
+    item HeroicTales_RedCape
+    {
+        Weight = 0.5,
+        Type = Literature,
+        DisplayName = "Childish Hero Tales: The Red Cape",
+        Icon = Book,
+        TeachedRecipes = Make Red Childish Cape,
+        StaticModel = Book,
+        ReplaceOnUse = HeroicTales_RedCape,
+        WorldStaticModel = Book,
+        DisplayCategory = SkillBook,
+    }
+
+    item HeroicTales_ShogunCape
+    {
+        Weight = 0.5,
+        Type = Literature,
+        DisplayName = "Childish Hero Tales: The Shogun Cape",
+        Icon = Book,
+        TeachedRecipes = Make Shogun Childish Cape,
+        StaticModel = Book,
+        ReplaceOnUse = HeroicTales_ShogunCape,
+        WorldStaticModel = Book,
+        DisplayCategory = SkillBook,
+    }
+
+    item HeroicTales_SpaceCape
+    {
+        Weight = 0.5,
+        Type = Literature,
+        DisplayName = "Childish Hero Tales: The Space Cape",
+        Icon = Book,
+        TeachedRecipes = Make Space Childish Cape,
+        StaticModel = Book,
+        ReplaceOnUse = HeroicTales_SpaceCape,
+        WorldStaticModel = Book,
+        DisplayCategory = SkillBook,
+    }
+}

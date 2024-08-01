@@ -1,0 +1,121 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<outfitManager>
+    <!-- Male Outfits -->
+    <m_MaleOutfits>
+        <m_Name>ChildishMaleWithCapes</m_Name>
+        <m_Guid>8d3b7070-465e-4773-9428-147df566ef25</m_Guid>
+        <!-- Common items with even probability -->
+        <m_items>
+            <itemGUID>a4418078-258e-4983-b836-8d978c5c930f</itemGUID> <!-- T-Shirt -->
+            <probability>0.071</probability>
+        </m_items>
+        <m_items>
+            <itemGUID>229b23f6-8e8f-4f16-837b-4fe950c48bfc</itemGUID> <!-- Jeans -->
+            <probability>0.071</probability>
+        </m_items>
+        <m_items>
+            <itemGUID>7741404b-9689-4608-a0f5-4e06597776f9</itemGUID> <!-- Shoes -->
+        </m_items>
+        <m_items>
+            <itemGUID>353ee4a8-c441-4396-a6bd-8a430858a411</itemGUID> <!-- T-Shirt Fossoil -->
+            <probability>0.071</probability>
+        </m_items>
+        <m_items>
+            <itemGUID>74e0c758-7af1-4fa3-8b7f-b875bc8f4141</itemGUID> <!-- Hat BaseballCap -->
+            <probability>0.071</probability>
+        </m_items>
+        <m_items>
+            <itemGUID>d876d21a-b8c3-4865-a063-9bdcf3acaeb1</itemGUID> <!-- Tshirt PoloStripedTINT -->
+            <probability>0.071</probability>
+        </m_items>
+        <m_items>
+            <itemGUID>88b27ecc-8a00-4d1a-882e-1ab4f4a46350</itemGUID> <!-- Shirt Lumberjack -->
+            <probability>0.071</probability>
+        </m_items>
+        <m_items>
+            <itemGUID>7a5f7b89-9de9-4c05-afb6-e62dca97b8a2</itemGUID> <!-- Jumper RoundNeck -->
+            <probability>0.071</probability>
+        </m_items>
+        <m_items>
+            <itemGUID>4b0b9d75-97b7-4e2d-a6bb-8677f9459311</itemGUID> <!-- Tshirt Rock -->
+            <probability>0.071</probability>
+        </m_items>
+        <m_items>
+            <itemGUID>ac7976de-2c73-44ea-9392-5d24ac1fb649</itemGUID> <!-- Shirt FormalWhite -->
+            <probability>0.071</probability>
+        </m_items>
+        <m_items>
+            <itemGUID>3b7e8f6d-98a5-4c39-bb38-7482e7dd914f</itemGUID> <!-- Shirt Hawaiian -->
+            <probability>0.071</probability>
+        </m_items>
+        <m_items>
+            <itemGUID>e90b1f79-71f7-490d-9b55-2e8e6d70cf14</itemGUID> <!-- Jacket White -->
+            <probability>0.071</probability>
+        </m_items>
+        <m_items>
+            <itemGUID>e2822080-de7e-4aca-8fa1-140f118b7043</itemGUID> <!-- Shorts ShortDenim -->
+            <probability>0.071</probability>
+        </m_items>
+        <m_items>
+            <itemGUID>c003fd5d-5872-42a0-bd12-8612d166441e</itemGUID> <!-- Shorts CamoGreenLong -->
+            <probability>0.071</probability>
+        </m_items>
+        <!-- Common capes -->
+        <m_items>
+            <itemGUID>1b2d38de-e3a5-489f-bb2b-f86fcc178ac2</itemGUID> <!-- Childish Cape -->
+            <probability>0.2</probability>
+        </m_items>
+        <m_items>
+            <itemGUID>1b2d38de-e3a5-489f-bb2b-f86fcc178ac3</itemGUID> <!-- Nina Childish Cape -->
+            <probability>0.2</probability>
+        </m_items>
+        <!-- Uncommon capes -->
+        <m_items>
+            <itemGUID>1b2d38de-e3a5-489f-bb2b-f86fcc178ac4</itemGUID> <!-- Twisted Childish Cape -->
+            <probability>0.1</probability>
+        </m_items>
+        <m_items>
+            <itemGUID>1b2d38de-e3a5-489f-bb2b-f86fcc178ac5</itemGUID> <!-- Black Childish Cape -->
+            <probability>0.1</probability>
+        </m_items>
+        <!-- Rare capes -->
+        <m_items>
+            <itemGUID>1b2d38de-e3a5-489f-bb2b-f86fcc178ac6</itemGUID> <!-- Blue Childish Cape -->
+            <probability>0.05</probability>
+        </m_items>
+        <m_items>
+            <itemGUID>1b2d38de-e3a5-489f-bb2b-f86fcc178ac7</itemGUID> <!-- Choice Childish Cape -->
+            <probability>0.05</probability>
+        </m_items>
+        <!-- Very Rare capes -->
+        <m_items>
+            <itemGUID>1b2d38de-e3a5-489f-bb2b-f86fcc178ac8</itemGUID> <!-- Cloud Childish Cape -->
+            <probability>0.025</probability>
+        </m_items>
+        <m_items>
+            <itemGUID>1b2d38de-e3a5-489f-bb2b-f86fcc178ac9</itemGUID> <!-- Highlight Childish Cape -->
+            <probability>0.025</probability>
+        </m_items>
+        <!-- Extremely Rare capes -->
+        <m_items>
+            <itemGUID>1b2d38de-e3a5-489f-bb2b-f86fcc178ad0</itemGUID> <!-- Money Childish Cape -->
+            <probability>0.01</probability>
+        </m_items>
+        <m_items>
+            <itemGUID>1b2d38de-e3a5-489f-bb2b-f86fcc178ad1</itemGUID> <!-- Potato Childish Cape -->
+            <probability>0.01</probability>
+        </m_items>
+        <m_items>
+            <itemGUID>1b2d38de-e3a5-489f-bb2b-f86fcc178ad2</itemGUID> <!-- Red Childish Cape -->
+            <probability>0.01</probability>
+        </m_items>
+        <m_items>
+            <itemGUID>1b2d38de-e3a5-489f-bb2b-f86fcc178ad3</itemGUID> <!-- Shogun Childish Cape -->
+            <probability>0.01</probability>
+        </m_items>
+        <m_items>
+            <itemGUID>1b2d38de-e3a5-489f-bb2b-f86fcc178ad4</itemGUID> <!-- Space Childish Cape -->
+            <probability>0.01</probability>
+        </m_items>
+    </m_MaleOutfits>
+</outfitManager>

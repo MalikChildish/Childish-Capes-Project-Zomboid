@@ -1,0 +1,9 @@
+module Base 
+{
+   model ChildishCapeWorld   
+   {
+	mesh = WorldItems/Clothing/ChildishCapeWorld,
+	scale = 1
+
+    }
+}

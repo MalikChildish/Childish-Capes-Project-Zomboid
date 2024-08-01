@@ -1,0 +1,15 @@
+Tooltip_EN = {
+	Tooltip_ChildishCape = "Equipping this cape for the first time adds sprinting XP.<br><br>The cape will add some bite and scratch protection",
+	Tooltip_NinaChildishCape = "Equipping this cape will make you happier and less stressed.<br><br>The cape will add some bite and scratch protection",
+	Tooltip_TwistedChildishCape = "Equipping this cape will give the herbalist trait.<br><br>The cape will add some bite and scratch protection",
+	Tooltip_BlackChildishCape = "Equipping this cape will give the inconspicuous trait.<br><br>The cape will add some bite and scratch protection",
+	Tooltip_BlueChildishCape = "Equipping this cape will allow you to be out in the cold longer.<br><br>The cape will add some bite and scratch protection",
+	Tooltip_ChoiceChildishCape = "Equipping this cape reduces panic and increases stamina.<br><br>The cape will add some bite and scratch protection",
+	Tooltip_CloudChildishCape = "Equipping this cape adds sprinting XP and reduces fall damage.<br><br>The cape will add some bite and scratch protection",
+	Tooltip_HighlightChildishCape = "Equipping this cape will give the Cat's Eyes trait.<br><br>The cape will add some bite and scratch protection",
+	Tooltip_MoneyChildishCape = "Equipping this cape will give the Lucky trait.<br><br>The cape will add some bite and scratch protection",
+	Tooltip_PotatoChildishCape = "Equipping this cape will give the Thick Skinned trait.<br><br>The cape will add some bite and scratch protection",
+	Tooltip_RedChildishCape = "Equipping this cape will make you really strong.<br><br>The cape will add some bite and scratch protection",
+	Tooltip_ShogunChildishCape = "Equipping this cape will make all of your equipped weapons stronger.<br><br>The cape will add some bite and scratch protection",
+	Tooltip_SpaceChildishCape = "Equipping this cape will give the Keen Hearing and Fast Learner trait.<br><br>The cape will add some bite and scratch protection",	
+}
